@@ -65,6 +65,7 @@ In the opened CMD window, type the following command and press Enter: mvn --vers
 * [Java](https://www.oracle.com/java/) - Java JDK
 * [Eclipse](https://www.eclipse.org/) - Eclipse IDE
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [TestNG](https://testng.org/) - Testing Framework
 
 ## Versioning
 

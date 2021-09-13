@@ -73,7 +73,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-* **Hassen Hannachi** - *Initial work* - [HassenHannachi](https://github.com/HannachiHassen)
+* **Hassen Hannachi** - *Initial work* - [Hassen Hannachi](https://github.com/HannachiHassen)
 
 ## License
 
